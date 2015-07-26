@@ -1,3 +1,3 @@
 __author__ = 'Phansiri'
 
-var test = "test"
+var test = "test";
