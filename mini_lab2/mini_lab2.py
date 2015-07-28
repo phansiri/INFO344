@@ -1,7 +1,6 @@
 __author__ = 'Phansiri'
 
 import csv
-# import geopy
 from geopy import Bing
 geocoder = Bing(api_key='AmfMoSCD5H_hlMzXRoyNh9Gt1pc2tVuyEljxxworN1ghVevEfyZX_Y2Awwk-GST8')
 
