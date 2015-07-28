@@ -1,2 +1,2 @@
 # INFO344
-initial readme
+This is the readme for my UW class INFO344 Server Side Web Dev
